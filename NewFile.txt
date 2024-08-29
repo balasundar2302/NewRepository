@@ -1,0 +1,8 @@
+Scenario: user Book The Train By Using MakeMyTripApp
+Given user Launch The Application
+Scenario: user Book The Bus By Using MakeMyTripApp
+Given user again Launch The Application
+
+Scenario: user Cancel The Bus
+Scenario: user Book The Cab By Using MakeMyTripApp
+
